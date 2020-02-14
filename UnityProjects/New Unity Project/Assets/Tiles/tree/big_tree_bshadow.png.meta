@@ -1,0 +1,1402 @@
+fileFormatVersion: 2
+guid: c2a732b93a3a3ac47abc557fee689208
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7871651467522145709
+    second: big_tree_bshadow_0
+  - first:
+      213: 5339234627511671640
+    second: big_tree_bshadow_1
+  - first:
+      213: 1463979207332056628
+    second: big_tree_bshadow_2
+  - first:
+      213: 9051148520018318562
+    second: big_tree_bshadow_3
+  - first:
+      213: -5351377111130282601
+    second: big_tree_bshadow_4
+  - first:
+      213: 3617274867562844227
+    second: big_tree_bshadow_5
+  - first:
+      213: -3585041225651021466
+    second: big_tree_bshadow_6
+  - first:
+      213: -6705201130587696308
+    second: big_tree_bshadow_7
+  - first:
+      213: -1208760694471404007
+    second: big_tree_bshadow_8
+  - first:
+      213: -4852680827570915088
+    second: big_tree_bshadow_9
+  - first:
+      213: 4084498586123409109
+    second: big_tree_bshadow_10
+  - first:
+      213: 4188803159921114989
+    second: big_tree_bshadow_11
+  - first:
+      213: 4134390335276397648
+    second: big_tree_bshadow_12
+  - first:
+      213: 4447952666189547112
+    second: big_tree_bshadow_13
+  - first:
+      213: 2207107516893498495
+    second: big_tree_bshadow_14
+  - first:
+      213: 4385142347813153764
+    second: big_tree_bshadow_15
+  - first:
+      213: 4204309074117644341
+    second: big_tree_bshadow_16
+  - first:
+      213: -1386611068918990199
+    second: big_tree_bshadow_17
+  - first:
+      213: 4824652640961372097
+    second: big_tree_bshadow_18
+  - first:
+      213: -2723009532957838624
+    second: big_tree_bshadow_19
+  - first:
+      213: -6637141760961773512
+    second: big_tree_bshadow_20
+  - first:
+      213: -3518778721297119010
+    second: big_tree_bshadow_21
+  - first:
+      213: -4424076012618236498
+    second: big_tree_bshadow_22
+  - first:
+      213: -7164453125439452720
+    second: big_tree_bshadow_23
+  - first:
+      213: 2855156574352356318
+    second: big_tree_bshadow_24
+  - first:
+      213: 973991463148493237
+    second: big_tree_bshadow_25
+  - first:
+      213: 5622925887809892661
+    second: big_tree_bshadow_26
+  - first:
+      213: 7243859472978716012
+    second: big_tree_bshadow_27
+  - first:
+      213: 1320919477004838039
+    second: big_tree_bshadow_28
+  - first:
+      213: 7436250711837676810
+    second: big_tree_bshadow_29
+  - first:
+      213: 4235724375278765174
+    second: big_tree_bshadow_30
+  - first:
+      213: 800384051842341739
+    second: big_tree_bshadow_31
+  - first:
+      213: -5972440500535094385
+    second: big_tree_bshadow_32
+  - first:
+      213: 2792095876587022270
+    second: big_tree_bshadow_33
+  - first:
+      213: -909231512153054013
+    second: big_tree_bshadow_34
+  - first:
+      213: -2316403487645086952
+    second: big_tree_bshadow_35
+  - first:
+      213: -6235817597860146662
+    second: big_tree_bshadow_36
+  - first:
+      213: 6706755126375606596
+    second: big_tree_bshadow_37
+  - first:
+      213: -6130785887252054050
+    second: big_tree_bshadow_38
+  - first:
+      213: -2211525989410723876
+    second: big_tree_bshadow_39
+  - first:
+      213: -8442843436788661541
+    second: big_tree_bshadow_40
+  - first:
+      213: -5582576825231563817
+    second: big_tree_bshadow_41
+  - first:
+      213: 8870393983154248529
+    second: big_tree_bshadow_42
+  - first:
+      213: -7275866633995819636
+    second: big_tree_bshadow_43
+  - first:
+      213: -5527876331070607076
+    second: big_tree_bshadow_44
+  - first:
+      213: -2118784876396559477
+    second: big_tree_bshadow_45
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: big_tree_bshadow_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 35209a232b642c290800000000000000
+      internalID: -7871651467522145709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b5c41fa95c81a40800000000000000
+      internalID: 5339234627511671640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43ec5932559115410800000000000000
+      internalID: 1463979207332056628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 223
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e49ef8bf932c9d70800000000000000
+      internalID: 9051148520018318562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7956ce7ced61cb5b0800000000000000
+      internalID: -5351377111130282601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3401800b354233230800000000000000
+      internalID: 3617274867562844227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66990f7efff5f3ec0800000000000000
+      internalID: -3585041225651021466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c43d5cfe81752f2a0800000000000000
+      internalID: -6705201130587696308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916d39b7d8e993fe0800000000000000
+      internalID: -1208760694471404007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_9
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 191
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f879487f70d7acb0800000000000000
+      internalID: -4852680827570915088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6987fc2dd0fa830800000000000000
+      internalID: 4084498586123409109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fb12dd74e912a30800000000000000
+      internalID: 4188803159921114989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_12
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05435f0ea1e406930800000000000000
+      internalID: 4134390335276397648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866caf5326d4abd30800000000000000
+      internalID: 4447952666189547112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_14
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 159
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c0885c79831ae10800000000000000
+      internalID: 2207107516893498495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_15
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebecea5bb72bdc30800000000000000
+      internalID: 4385142347813153764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_16
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530dbb8d3d4b85a30800000000000000
+      internalID: 4204309074117644341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_17
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a75735494c1cce0800000000000000
+      internalID: -1386611068918990199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf172dc30c94f240800000000000000
+      internalID: 4824652640961372097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e2bb04c14de53ad0800000000000000
+      internalID: -2723009532957838624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_20
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83086f5cbb224e3a0800000000000000
+      internalID: -6637141760961773512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_21
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 127
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8c1e17569ca2fc0800000000000000
+      internalID: -3518778721297119010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead30986e468a92c0800000000000000
+      internalID: -4424076012618236498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d98e3067dfb29c90800000000000000
+      internalID: -7164453125439452720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3b460f6cd8f9720800000000000000
+      internalID: 2855156574352356318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b99a374310548d00800000000000000
+      internalID: 973991463148493237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531b14dad45a80e40800000000000000
+      internalID: 5622925887809892661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_27
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65aeb1afcb578460800000000000000
+      internalID: 7243859472978716012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 794a4cb0449d45210800000000000000
+      internalID: 1320919477004838039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_29
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 95
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0594db9f9ed23760800000000000000
+      internalID: 7436250711837676810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67444f2a0e058ca30800000000000000
+      internalID: 4235724375278765174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 63
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b53f5fd098b1b00800000000000000
+      internalID: 800384051842341739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 7, y: 16}
+        - {x: 6, y: 15}
+        - {x: 6, y: 14}
+        - {x: 8, y: 12}
+        - {x: 8, y: 10}
+        - {x: 5, y: 6}
+        - {x: 1, y: 7}
+        - {x: 0, y: 8}
+        - {x: -2, y: 8}
+        - {x: -3, y: 9}
+        - {x: -8, y: 9}
+        - {x: -9, y: 6}
+        - {x: -6, y: 3}
+        - {x: -5, y: 3}
+        - {x: -4, y: 2}
+        - {x: -5, y: 1}
+        - {x: -5, y: -2}
+        - {x: -3, y: -4}
+        - {x: -1, y: -4}
+        - {x: 2, y: -6}
+        - {x: 1, y: -7}
+        - {x: -3, y: -8}
+        - {x: -4, y: -9}
+        - {x: -6, y: -8}
+        - {x: -7, y: -9}
+        - {x: -15, y: -10}
+        - {x: -16, y: -11}
+        - {x: -16, y: -15}
+        - {x: -9, y: -15}
+        - {x: -9, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: f8313731201ad1da0800000000000000
+      internalID: -5972440500535094385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 63
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb76dc618648fb620800000000000000
+      internalID: 2792095876587022270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 63
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4a68bc1c2c163f0800000000000000
+      internalID: -909231512153054013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 63
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -4, y: -7}
+        - {x: -3, y: -3}
+        - {x: 0, y: 0}
+        - {x: 2, y: 0}
+        - {x: 5, y: 3}
+        - {x: 5, y: 4}
+        - {x: 9, y: 8}
+        - {x: 9, y: 11}
+        - {x: 6, y: 12}
+        - {x: 5, y: 11}
+        - {x: 1, y: 11}
+        - {x: -1, y: 9}
+        - {x: -5, y: 9}
+        - {x: -7, y: 8}
+        - {x: -8, y: 13}
+        - {x: -7, y: 14}
+        - {x: -7, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 9, y: -16}
+        - {x: 9, y: -15}
+        - {x: 2, y: -9}
+        - {x: 0, y: -9}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 81b40720d4b7adfd0800000000000000
+      internalID: -2316403487645086952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_36
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 63
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a129a6bfeece579a0800000000000000
+      internalID: -6235817597860146662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_37
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 63
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449e527e04e231d50800000000000000
+      internalID: 6706755126375606596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edffc54c7b21beaa0800000000000000
+      internalID: -6130785887252054050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_39
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 31
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd721ad64d41f41e0800000000000000
+      internalID: -2211525989410723876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_40
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 31
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 9, y: -8}
+        - {x: 14, y: -6}
+        - {x: 14, y: -4}
+        - {x: 16, y: -2}
+        - {x: 16, y: 16}
+        - {x: -13, y: 16}
+        - {x: -16, y: 13}
+        - {x: -16, y: 11}
+        - {x: -13, y: 10}
+        - {x: -12, y: 11}
+        - {x: -1, y: 11}
+        - {x: 0, y: 12}
+        - {x: 3, y: 10}
+        - {x: 3, y: 8}
+        - {x: 1, y: 5}
+        - {x: 1, y: 3}
+        - {x: -1, y: 1}
+        - {x: -1, y: 0}
+        - {x: -7, y: -6}
+        - {x: -9, y: -6}
+        - {x: -10, y: -9}
+        - {x: -7, y: -12}
+        - {x: -1, y: -10}
+        - {x: 1, y: -8}
+        - {x: 5, y: -5}
+        - {x: 7, y: -8}
+      tessellationDetail: 1
+      bones: []
+      spriteID: bd249f750aef4da80800000000000000
+      internalID: -8442843436788661541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_41
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 31
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -9}
+        - {x: 13, y: -7}
+        - {x: 14, y: -6}
+        - {x: 16, y: -6}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -1}
+        - {x: -12, y: 1}
+        - {x: -9, y: -3}
+        - {x: -13, y: -6}
+        - {x: -13, y: -8}
+        - {x: -10, y: -11}
+        - {x: -8, y: -11}
+        - {x: -7, y: -10}
+        - {x: -6, y: -11}
+        - {x: -2, y: -11}
+        - {x: -2, y: -15}
+        - {x: -1, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: -15}
+        - {x: 10, y: -11}
+        - {x: 12, y: -11}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 7d3aeb884f3b682b0800000000000000
+      internalID: -5582576825231563817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 31
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 16, y: -12}
+        - {x: 13, y: -6}
+        - {x: 13, y: -3}
+        - {x: 16, y: -4}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -6}
+        - {x: -14, y: -6}
+        - {x: -9, y: -9}
+        - {x: -4, y: -9}
+        - {x: -3, y: -10}
+        - {x: -3, y: -11}
+        - {x: 1, y: -16}
+        - {x: 4, y: -16}
+        - {x: 5, y: -15}
+        - {x: 6, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 1
+      bones: []
+      spriteID: 15bdbaf8458f91b70800000000000000
+      internalID: 8870393983154248529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_43
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 31
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 11, y: -1}
+        - {x: 6, y: -1}
+        - {x: 3, y: 2}
+        - {x: 2, y: 4}
+        - {x: -6, y: 8}
+        - {x: -6, y: 10}
+        - {x: 2, y: 10}
+        - {x: 3, y: 9}
+        - {x: 7, y: 9}
+        - {x: 9, y: 7}
+        - {x: 13, y: 7}
+        - {x: 14, y: 8}
+        - {x: 16, y: 8}
+        - {x: 16, y: 15}
+        - {x: 13, y: 15}
+        - {x: 12, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -6}
+        - {x: -14, y: -8}
+        - {x: -10, y: -7}
+        - {x: -8, y: -8}
+        - {x: -5, y: -5}
+        - {x: -2, y: -5}
+        - {x: -1, y: -7}
+        - {x: 2, y: -8}
+        - {x: 5, y: -8}
+        - {x: 10, y: -11}
+        - {x: 12, y: -11}
+        - {x: 16, y: -7}
+        - {x: 15, y: -4}
+        - {x: 12, y: -4}
+      tessellationDetail: 1
+      bones: []
+      spriteID: c85ef8778dde60b90800000000000000
+      internalID: -7275866633995819636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 31
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c113f3cc3c90943b0800000000000000
+      internalID: -5527876331070607076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: big_tree_bshadow_45
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 31
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b83c9e671609892e0800000000000000
+      internalID: -2118784876396559477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
